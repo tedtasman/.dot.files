@@ -1,9 +1,9 @@
 [submodule "bash"]
 	path = bash
-	url = ./bash
+	url = https://github.com/tedtasman/bash
 [submodule "nvim"]
 	path = nvim
-	url = ./nvim/
+	url = https://github.com/tedtasman/nvim
 [submodule "tmux"]
 	path = tmux
-	url = ./tmux/
+	url = https://github.com/tedtasman/tmux
