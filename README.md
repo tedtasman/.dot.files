@@ -14,5 +14,5 @@ git clone https://github.com/tedtasman/dfmgr3.git --recurse-submodules
 ```bash
 ./dfmgr3/install
 ```
-*if you already have some of things in your ~/.config, this will fail. Deal with that first*
+*if you already have some of the things in your ~/.config, this will fail. Deal with that first*
 
