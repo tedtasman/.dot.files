@@ -13,3 +13,8 @@
     url = https://github.com/tedtasman/tmux
     branch = main
     update = merge
+[submodule "git"]
+    path = git
+    url = https://github.com/tedtasman/git
+    branch = main
+    update = merge
