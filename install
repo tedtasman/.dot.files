@@ -10,7 +10,7 @@ for item in "$SCRIPT_DIR"/*; do
     # strip to just item name
     name="${item##*/}" 
     if [ -f "$item/install" ]; then
-        ./"$name"/install
+        "$SCRIPT_DIR"/"$name"/install
     else 
         printf "$name has no install script\n"
     fi
