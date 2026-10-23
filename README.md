@@ -10,7 +10,6 @@ A minimal dotfiles repo. Various configs are submodules. Each comes with an inst
 ### Why should I use this over every other dotfile manager?
 You probably shouldn't.
 
----
 
 ## Setup
 1. Clone:
@@ -24,7 +23,6 @@ git clone https://github.com/tedtasman/dfmgr3.git --recurse-submodules
 ```
 *if you already have some of the things in your ~/.config, this will fail. Deal with that first*
 
----
 
 ## Usage
 `install` creates symlinks in ~/.config back to the repo. So you can edit the config files as you normally would.
