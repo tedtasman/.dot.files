@@ -2,11 +2,14 @@
     path = bash
     url = https://github.com/tedtasman/bash
     branch = main
+    update = merge
 [submodule "nvim"]
     path = nvim
     url = https://github.com/tedtasman/nvim
     branch = main
+    update = merge
 [submodule "tmux"]
     path = tmux
     url = https://github.com/tedtasman/tmux
     branch = main
+    update = merge
